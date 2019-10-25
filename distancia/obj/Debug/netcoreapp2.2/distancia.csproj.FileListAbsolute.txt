@@ -1,0 +1,11 @@
+C:\Users\52041722894\Desktop\30ex\distancia\bin\Debug\netcoreapp2.2\distancia.deps.json
+C:\Users\52041722894\Desktop\30ex\distancia\bin\Debug\netcoreapp2.2\distancia.runtimeconfig.json
+C:\Users\52041722894\Desktop\30ex\distancia\bin\Debug\netcoreapp2.2\distancia.runtimeconfig.dev.json
+C:\Users\52041722894\Desktop\30ex\distancia\bin\Debug\netcoreapp2.2\distancia.dll
+C:\Users\52041722894\Desktop\30ex\distancia\bin\Debug\netcoreapp2.2\distancia.pdb
+C:\Users\52041722894\Desktop\30ex\distancia\obj\Debug\netcoreapp2.2\distancia.csprojAssemblyReference.cache
+C:\Users\52041722894\Desktop\30ex\distancia\obj\Debug\netcoreapp2.2\distancia.csproj.CoreCompileInputs.cache
+C:\Users\52041722894\Desktop\30ex\distancia\obj\Debug\netcoreapp2.2\distancia.AssemblyInfoInputs.cache
+C:\Users\52041722894\Desktop\30ex\distancia\obj\Debug\netcoreapp2.2\distancia.AssemblyInfo.cs
+C:\Users\52041722894\Desktop\30ex\distancia\obj\Debug\netcoreapp2.2\distancia.dll
+C:\Users\52041722894\Desktop\30ex\distancia\obj\Debug\netcoreapp2.2\distancia.pdb

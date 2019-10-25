@@ -1,0 +1,11 @@
+C:\Users\52041722894\Desktop\30ex\vvv\bin\Debug\netcoreapp2.2\vvv.deps.json
+C:\Users\52041722894\Desktop\30ex\vvv\bin\Debug\netcoreapp2.2\vvv.runtimeconfig.json
+C:\Users\52041722894\Desktop\30ex\vvv\bin\Debug\netcoreapp2.2\vvv.runtimeconfig.dev.json
+C:\Users\52041722894\Desktop\30ex\vvv\bin\Debug\netcoreapp2.2\vvv.dll
+C:\Users\52041722894\Desktop\30ex\vvv\bin\Debug\netcoreapp2.2\vvv.pdb
+C:\Users\52041722894\Desktop\30ex\vvv\obj\Debug\netcoreapp2.2\vvv.csprojAssemblyReference.cache
+C:\Users\52041722894\Desktop\30ex\vvv\obj\Debug\netcoreapp2.2\vvv.csproj.CoreCompileInputs.cache
+C:\Users\52041722894\Desktop\30ex\vvv\obj\Debug\netcoreapp2.2\vvv.AssemblyInfoInputs.cache
+C:\Users\52041722894\Desktop\30ex\vvv\obj\Debug\netcoreapp2.2\vvv.AssemblyInfo.cs
+C:\Users\52041722894\Desktop\30ex\vvv\obj\Debug\netcoreapp2.2\vvv.dll
+C:\Users\52041722894\Desktop\30ex\vvv\obj\Debug\netcoreapp2.2\vvv.pdb
