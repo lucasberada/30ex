@@ -9,12 +9,8 @@ namespace _0a100
 
             
             
-            for( double i=0;0<100;){
-                double i=double.Parse(Console.ReadLine());
-                Console.WriteLine(i);
-
-            }foreach(i=0<100)
-            {
+            for( double i=0;0<100;i++){
+                Console.WriteLine(i+"");
 
             }
         }
